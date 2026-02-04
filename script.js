@@ -17,7 +17,7 @@ document.addEventListener("DOMContentLoaded", function () {
     yesButton.addEventListener('click', function () {
         let content = document.getElementById("content");
         content.innerHTML = `
-            <h1>❤️ Yay! Can’t wait for our date! ❤️</h1>
+            <h1>❤️ Yay! Can’t Wait For Our Date! ❤️</h1>
         `;
         confetti();
     });
